@@ -1,4 +1,4 @@
-![logo](path url of the banner)
+![Logo](https://github.com/Ethan-0777/Ethan-0777/blob/main/GitHub%20Banner.gif)
 
 <h1 align="center">Hi 👋, I'm Nabin Raspeda</h1>
 <h3 align="center">A passionate software developer from India</h3>
